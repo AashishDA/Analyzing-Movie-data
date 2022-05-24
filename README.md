@@ -1,17 +1,16 @@
 # Analyzing-Movie-data
-Data Analysis on the Movie Kaggle dataset.
+## Data Analysis on the Movie Kaggle dataset.
 
-Project Steps
+## Project Steps
+* Data Exploration
+* Data Cleaning
+* Correlation Matrices and Plots
 
-Data Exploration
-Data Cleaning
-Correlation Matrices and Plots
-Libraries
+## Libraries
+* numpy
+* pandas
+* seaborn
+* matplotlib
 
-numpy
-pandas
-seaborn
-matplotlib
-References
-
+## References
 Data Set: https://www.kaggle.com/datasets/danielgrijalvas/movies
